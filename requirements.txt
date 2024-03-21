@@ -65,7 +65,6 @@ python-decouple
 python3-openid
 pytz
 pytz-deprecation-shim
-pywin32
 requests
 requests-oauthlib
 retrying
