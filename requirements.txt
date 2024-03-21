@@ -80,7 +80,6 @@ tzlocal
 uritemplate
 urllib3
 uuid
-vboxapi
 wcwidth
 wget
 win-unicode-console
